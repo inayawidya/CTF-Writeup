@@ -7,11 +7,11 @@ Description :
 Do you double-knot your shoelaces? You gotta keep'em tied!
 Pada challenge ini kita diminta untuk mendownload gambar. Gambar setelah didownload tidak ada kode yang ditemukan.
 
-<img src= "shoelaces.jpg" style="width:50%"/>
+![shoelaces](https://user-images.githubusercontent.com/73151978/111863576-09a3f200-898f-11eb-836c-7ab2d1d3512e.jpg)
 
 Untuk bisa Untuk bisa menemukan kode yang ada di dalam gambar maka saya akan import gambar dengan bantuan Notepad++. Setelah itu saya cari kode dengan ctrl + F search “flag”.
 
-<img src= "ss1.png" style= "width:70%"/>
+
 
 Flag :
 ```
