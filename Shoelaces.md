@@ -11,7 +11,7 @@ Pada challenge ini kita diminta untuk mendownload gambar. Gambar setelah didownl
 
 Untuk bisa Untuk bisa menemukan kode yang ada di dalam gambar maka saya akan import gambar dengan bantuan Notepad++. Setelah itu saya cari kode dengan ctrl + F search “flag”.
 
-
+![ss1](https://user-images.githubusercontent.com/73151978/111863622-47a11600-898f-11eb-9d0c-6b93d0bc4a29.png)
 
 Flag :
 ```
