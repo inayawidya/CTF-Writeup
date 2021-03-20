@@ -1,6 +1,6 @@
 # Commenting is the key
 #### Category Networking
-Challenge: vishwaCTF
+Challenge : vishwaCTF
 
 Description :
 
